@@ -1,4 +1,4 @@
-# vikas dhakad
+# Vikas Dhakad
 # Pandas-Visualization-case-study
 
 **Description of pandas visualization case study**
